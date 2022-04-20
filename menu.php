@@ -111,7 +111,7 @@ require 'head.template.php';
 		</form>
 		</div>
 		<div class="link_ins">
-		<p><a href="index.php">Retour à l'accueil</a></p>
+		<p><a href="accueil.php">Retour à l'accueil</a></p>
 		</div>
 </div>
 <h2>Commentaires </h2>
